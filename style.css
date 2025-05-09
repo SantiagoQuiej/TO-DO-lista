@@ -1,0 +1,24 @@
+.red{
+    background-color: red;
+    color: white;
+    margin-left: 5px;
+    margin-right:5px;
+    margin-top:5px;
+    border:2px solid black;
+    border-radius:5px;
+}
+.tarea{
+    width:70%;
+    border-radius:5px;
+}
+.verde{
+    background-color:green;
+    color:white;
+    border:2px solid black;
+    border-radius:5px;
+}
+.lineamedia{
+    width:70%;
+    text-decoration: line-through;
+    font-weight: bold;
+}
