@@ -22,3 +22,14 @@
     text-decoration: line-through;
     font-weight: bold;
 }
+
+
+#boton-{
+    border-radius:5px;
+    background-color:orange;
+    border: 2px solid black;
+}
+.titulo{
+    font-family:initial;
+    font-style: italic;
+}
