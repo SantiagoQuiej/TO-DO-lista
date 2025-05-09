@@ -10,4 +10,4 @@ Este proyecto es una simple aplicación de lista de tareas (*To-Do List*) creada
 - JavaScript (DOM)
 ## 📂 Estructura del proyecto
 
-![image](./To-Do-Lista.png)
+![image](./Imagen.png)
