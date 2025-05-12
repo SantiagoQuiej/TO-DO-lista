@@ -8,9 +8,10 @@ bottones.addEventListener('click', () => {
     if(String(entrada.value).trim()=="")
     { 
          entrada.value=''
-        alert('Tarea vacia')
+         entrada.placeholder='Archivo vacio'
     }else{
         agregar()
+        entrada.placeholder='What Will You Do'
     }
 })
 const agregar = () => {
@@ -47,9 +48,10 @@ entrada.addEventListener('keydown', (event) => {
     if (event.key == 'Enter') {
         if(String(entrada.value).trim()==''){
             entrada.value=''
-            alert('Tarea vacia')
+            entrada.placeholder='Archivo vacio'
 
         }else{
+            entrada.placeholder='What Will You Do'
         agregar()}
     }
 
